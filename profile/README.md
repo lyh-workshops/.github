@@ -14,10 +14,6 @@
 - Aug 24 - [将 NCM 文件转换为 MP3 文件](https://xlog.app/api/redirection?characterId=59997&noteId=38)
 <!-- feed end -->
 
-## GitHub Stats ✨
-
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=liuyuhe666&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuyuhe666&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
 ## Contact Me
 
 - [GitHub @liuyuhe666](https://github.com/liuyuhe666)
@@ -27,7 +23,7 @@
 
 > 如果我的代码对你有帮助，欢迎投喂。你的一点心意就是对我最大的肯定和鼓励。
 
-[☕ Buy me a coffee](https://github.com/lyh-gzh/buy-me-a-coffee)
+[`☕ Buy me a coffee`](https://github.com/lyh-gzh/buy-me-a-coffee)
 
 <!--
 ## Hi there 👋
