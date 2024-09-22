@@ -7,11 +7,11 @@
 ## Latest Posts on [xLog](https://hellolyh.xlog.app)
 
 <!-- feed start -->
+- Sep 22 - [使用免密 GPG 密钥](https://xlog.app/api/redirection?characterId=59997&noteId=72)
 - Sep 08 - [Redis 缓存雪崩、缓存击穿、缓存穿透的解决方案](https://xlog.app/api/redirection?characterId=59997&noteId=57)
 - Sep 03 - [Java 实现单例模式](https://xlog.app/api/redirection?characterId=59997&noteId=50)
 - Aug 28 - [面向对象编程中的六大原则](https://xlog.app/api/redirection?characterId=59997&noteId=43)
 - Aug 27 - [导致 MySQL 索引失效的常见场景](https://xlog.app/api/redirection?characterId=59997&noteId=41)
-- Aug 24 - [将 NCM 文件转换为 MP3 文件](https://xlog.app/api/redirection?characterId=59997&noteId=38)
 <!-- feed end -->
 
 ## Contact Me
