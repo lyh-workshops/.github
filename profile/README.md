@@ -7,11 +7,11 @@
 ## Latest Posts on [xLog](https://hellolyh.xlog.app)
 
 <!-- feed start -->
+- Nov 01 - [解决 Windows 系统下 go-sqlite3 requires cgo to work](https://xlog.app/api/redirection?characterId=59997&noteId=77)
 - Oct 16 - [Follow Feed Claim](https://xlog.app/api/redirection?characterId=59997&noteId=74)
 - Sep 28 - [Java 中的访问修饰符](https://xlog.app/api/redirection?characterId=59997&noteId=73)
 - Sep 22 - [使用免密 GPG 密钥](https://xlog.app/api/redirection?characterId=59997&noteId=72)
 - Sep 08 - [Redis 缓存雪崩、缓存击穿、缓存穿透的解决方案](https://xlog.app/api/redirection?characterId=59997&noteId=57)
-- Sep 03 - [Java 实现单例模式](https://xlog.app/api/redirection?characterId=59997&noteId=50)
 <!-- feed end -->
 
 ## Contact Me
