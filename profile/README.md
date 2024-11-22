@@ -7,11 +7,11 @@
 ## Latest Posts on [xLog](https://hellolyh.xlog.app)
 
 <!-- feed start -->
+- Nov 22 - [sync.Mutex 和 sync.RWMutex 的区别](https://xlog.app/api/redirection?characterId=59997&noteId=79)
 - Nov 10 - [go test 运行当前项目下的所有测试](https://xlog.app/api/redirection?characterId=59997&noteId=78)
 - Nov 01 - [解决 Windows 系统下 go-sqlite3 requires cgo to work](https://xlog.app/api/redirection?characterId=59997&noteId=77)
 - Oct 16 - [Follow Feed Claim](https://xlog.app/api/redirection?characterId=59997&noteId=74)
 - Sep 28 - [Java 中的访问修饰符](https://xlog.app/api/redirection?characterId=59997&noteId=73)
-- Sep 22 - [使用免密 GPG 密钥](https://xlog.app/api/redirection?characterId=59997&noteId=72)
 <!-- feed end -->
 
 ## Contact Me
