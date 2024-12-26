@@ -1,23 +1,16 @@
-## About Me
+## 关于我
 
 大家好，我是练习时长两年半的 Web 开发练习生，熟悉 Java、Python、Go、TypeScript 等常用编程语言。👆🤓
 
 > 全栈开发，开源爱好者🧑‍💻
 
-## Latest Posts on [xLog](https://hellolyh.xlog.app)
-
 <!-- feed start -->
-- Nov 23 - [一致性哈希算法](https://xlog.app/api/redirection?characterId=59997&noteId=80)
-- Nov 22 - [sync.Mutex 和 sync.RWMutex 的区别](https://xlog.app/api/redirection?characterId=59997&noteId=79)
-- Nov 10 - [go test 运行当前项目下的所有测试](https://xlog.app/api/redirection?characterId=59997&noteId=78)
-- Nov 01 - [解决 Windows 系统下 go-sqlite3 requires cgo to work](https://xlog.app/api/redirection?characterId=59997&noteId=77)
-- Oct 16 - [Follow Feed Claim](https://xlog.app/api/redirection?characterId=59997&noteId=74)
 <!-- feed end -->
 
 ## Contact Me
 
-- [GitHub @liuyuhe666](https://github.com/liuyuhe666)
-- [Send Email](mailto:cnliuyuhe@gmail.com)
+- [GitHub](https://github.com/liuyuhe666)
+- [Email](mailto:cnliuyuhe@gmail.com)
 
 ## Sponsor Me
 
